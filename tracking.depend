@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1398031898 source:c:\users\zmmin_000\desktop\job\tracking\main.cpp
+	"opencv2/highgui/highgui.hpp"
+	<iostream>
+	"opencv2/opencv.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	<typeinfo>
+
